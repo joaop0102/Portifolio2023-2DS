@@ -1,4 +1,6 @@
+<div align="center"> 
 # Portifolio2023-2DS
+</div>
 
 <div align="center"> 
   
@@ -8,7 +10,8 @@ Olá, sejam bem-vindos(as) ao meu repositório que está registrando a minha tra
 
 <br></br>
  Sobre o Curso
-  O curso AMS na Etec Zona Leste proporciona uma oportunidade inigualável de adquirir habilidades práticas e teóricas fundamentais no desenvolvimento de sistemas, tais conceitos teóricos e práticos, que me modula de uma forma sólida para desafios do mundo.
+  O curso AMS na Etec Zona Leste proporciona uma oportunidade inigualável de adquirir habilidades práticas e teóricas fundamentais no desenvolvimento de sistemas, tais conceitos 
+  teóricos e práticos, que me modula de uma forma sólida para desafios do mundo.
 
 <br></br>
  Projeto de Criação de Website
